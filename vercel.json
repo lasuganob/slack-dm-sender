@@ -1,5 +1,6 @@
 {
+  "version": 2,
   "functions": {
-    "*.py": { "runtime": "python3.12" }
+    "api/*.py": { "runtime": "python3.11" }
   }
 }
